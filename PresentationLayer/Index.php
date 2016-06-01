@@ -1,12 +1,12 @@
-<<?php 
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="DesignLogin.css">
+</head>
+<body>
 
-	class Foo { 
-    public var $bla;
-    
-} 
-
-$foo = new Foo;
-$foo->bla = "hallo";
-echo($foo->bla);
-
+</body>
+</html>
+<?php 
  ?>
