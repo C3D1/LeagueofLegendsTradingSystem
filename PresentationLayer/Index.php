@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,9 +6,8 @@
 	<link rel="stylesheet" type="text/css" href="DesignLogin.css">
 </head>
 <body>
-
+<button><a href="Login.php">Login</a></button>
 </body>
 </html>
 <?php 
  ?>
->>>>>>> origin/master
