@@ -1,0 +1,17 @@
+body {
+	 font-size: 12px;
+	 font-family: sans-serif;
+	 background-color: rgb(#404040);
+}
+.header {
+	width: 100%;
+
+}
+
+.content {
+	width: 100%;
+}
+
+.footer {
+	width: 100%;
+}
