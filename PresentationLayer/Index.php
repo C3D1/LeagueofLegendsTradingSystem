@@ -14,7 +14,7 @@
 		
 	</div>
 	<div class="footer">
-		
+		<p>&copy; Cédric Schnider, Gino Pio Loco<p>
 	</div>
 </body>
 </html>

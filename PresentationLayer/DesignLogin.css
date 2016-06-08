@@ -28,7 +28,7 @@ html{
 	top: 14%;
 	left: 0;
 	right: 0;
-	bottom: 10%;
+	bottom: 14%;
 }
 
 .footer {
@@ -36,8 +36,11 @@ html{
 	bottom: 0;
 	left: 0;
 	right: 0;
-	height: 10%;
+	height: 8%;
 	background-color: #000000;
+	color: 	#FFD700;
+	text-align: center;
+	padding: 2%;
 }
 
 .icon {
