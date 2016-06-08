@@ -9,6 +9,9 @@
 	<div class="header">
 		<H1>Trading System</H1>
 		<img src="../Images/LoL_Icon.png" alt="League of Legends Icon" class="icon">
+		<div class="navi">
+			
+		</div>
 	</div>
 	<div class="content">
 		

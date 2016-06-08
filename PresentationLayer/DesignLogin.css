@@ -29,6 +29,10 @@ html{
 	left: 0;
 	right: 0;
 	bottom: 14%;
+	right: 15%;
+	left: 15%;
+	width: 70%;
+	background-color: #FFFFFF;
 }
 
 .footer {
@@ -46,7 +50,7 @@ html{
 .icon {
 	height: 30px;
 	position: absolute;
-	top: 10px;
+	top: 12px;
 	right: 30px;
 }
 
