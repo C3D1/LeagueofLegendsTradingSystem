@@ -18,7 +18,7 @@
 		$query = "SELECT * FROM user";
 		$result = odbc_exec($db,$query);
 		while($row= odbc_fetch_array($result)) {
-			if ($row["username"] == $username && $row["password"] == $pw) {
+			if ($row["username"] == $username && $row["password"] == $pw) {6!àèö-poiujhzngtfrvsy<
 				return "True";
 			}
 		}
