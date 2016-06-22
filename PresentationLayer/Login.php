@@ -14,13 +14,16 @@
         session_start();
         if(isset($_SESSION["login"]))
         {
-
+                echo("<button><a href=\"Logout.php\">Logout</a></button>");
         }
         else
         {
             $_SESSION["login"] = 1;
+            header("Location: Login.php");
         }
-        $_SESSION["login"];
+        
+            
+        
         if($_SESSION["login"] != "12345")
         {
             echo("<form method = \"post\" >
@@ -32,7 +35,7 @@
         }
         else
         {
-            echo("<button><a href=\"Logout.php\">Logout</a></button>");
+            
         }
         ?>
         <?php
