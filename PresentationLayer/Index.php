@@ -38,11 +38,6 @@
 	</div>
 </body>
 </html>
-<?php 
- ?>
-
-=======
-<button><a href="Login.php">Login</a></button>
 </body>
 </html>
 <?php 
