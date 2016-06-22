@@ -14,7 +14,12 @@
 		</div>
 	</div>
 	<div class="content">
-		
+		<ul>
+		    <li><a href="#">Home</a></li>
+		    <li><a href="#">Trade</a></li>
+		    <li><a href="#">Request</a></li>
+		</ul>
+
 	</div>
 	<div class="footer">
 		<p>&copy; Cédric Schnider, Gino Pio Loco<p>
