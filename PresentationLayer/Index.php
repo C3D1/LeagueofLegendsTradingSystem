@@ -12,14 +12,26 @@
 		<div class="navi">
 			
 		</div>
+		<?php 
+		if($_SESSION["login"] != 12345)
+		{
+			echo("<button><a href=\"Login.php\">Logout</a></button>");
+		}
+		
+		 ?>
+		
 	</div>
 	<div class="content">
+<<<<<<< HEAD
 		<ul>
 		    <li><a href="#">Home</a></li>
 		    <li><a href="#">Trade</a></li>
 		    <li><a href="#">Request</a></li>
 		</ul>
 
+=======
+	
+>>>>>>> origin/master
 	</div>
 	<div class="footer">
 		<p>&copy; Cédric Schnider, Gino Pio Loco<p>
