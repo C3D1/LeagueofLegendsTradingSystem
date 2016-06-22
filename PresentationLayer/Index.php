@@ -22,16 +22,11 @@
 		
 	</div>
 	<div class="content">
-<<<<<<< HEAD
 		<ul>
 		    <li><a href="#">Home</a></li>
 		    <li><a href="#">Trade</a></li>
 		    <li><a href="#">Request</a></li>
 		</ul>
-
-=======
-	
->>>>>>> origin/master
 	</div>
 	<div class="footer">
 		<p>&copy; Cédric Schnider, Gino Pio Loco<p>
@@ -41,7 +36,6 @@
 <?php 
  ?>
 
-=======
 <button><a href="Login.php">Login</a></button>
 </body>
 </html>
