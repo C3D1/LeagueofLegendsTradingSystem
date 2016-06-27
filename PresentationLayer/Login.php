@@ -6,7 +6,8 @@
 </head>
 <body>
 	<div class="header">
-		
+		<H1>Trading System</H1>
+		<img src="../Images/LoL_Icon.png" alt="League of Legends Icon" class="icon">
 	</div>
 	<div class="content">
 		<ul>
@@ -50,7 +51,7 @@
         ?>
 	</div>
 	<div class="footer">
-		
+		<p>&copy; Cédric Schnider, Gino Pio Loco<p>
 	</div>
 </body>
 </html>
