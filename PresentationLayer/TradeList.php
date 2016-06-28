@@ -18,33 +18,32 @@
             <li><a href="TradeList.php">Trade</a></li>
 		    <li><a href="#">Request</a></li>
 		    <li><a href="Logout.php">Logout</a></li>
-		    <li><a href="Registration.php">Registration<a/></li>s
+		    <li><a href="Registration.php">Registration<a/></li>
 		</ul>
 		
-		<body> 
-<table class="table-fill">
-<thead>
-<tr>
-<th class="text-left">Requested Champ / Skin</th>
-<th class="text-left">Useranme</th>
-</tr>
-</thead>
-<tbody class="table-hover">
-<tr>
-<td class="text-left">Katarina</td>
-<td class="text-left">gipi</td>
-</tr>
-<tr>
-<td class="text-left">Ahri</td>
-<td class="text-left">cedi</td>
-</tr>
-<tr>
-<td class="text-left">Nautilus</td>
-<td class="text-left">gipi</td>
-</tr>
-</tr>
-</tbody>
-</table>
+		<table class="table-fill">
+			<thead>
+				<tr>
+					<th class="text-left">Requested Champ / Skin</th>
+					<th class="text-left">Username</th>
+				</tr>
+			</thead>
+			<tbody class="table-hover">
+				<tr>
+					<td class="text-left">Katarina</td>
+					<td class="text-left">gipi</td>
+				</tr>
+				<tr>
+					<td class="text-left">Ahri</td>
+					<td class="text-left">cedi</td>
+				</tr>
+				<tr>
+					<td class="text-left">Nautilus</td>
+					<td class="text-left">gipi</td>
+				</tr>
+
+			</tbody>
+		</table>
 
 
 	</div>
