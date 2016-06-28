@@ -17,7 +17,7 @@
 		    <li><a href="#">Trade</a></li>
 		    <li><a href="#">Request</a></li>
 		    <li><a href="Logout.php">Logout</a></li>
-		    <li><a href="Registration.php">Registration<a/></li>s
+		    <li><a href="Registration.php">Registration<a/></li>
 		</ul>
 		Welcome to the League of Legends Trading System
 	</div>
