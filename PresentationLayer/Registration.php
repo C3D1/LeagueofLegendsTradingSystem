@@ -10,9 +10,9 @@
 		<img src="../Images/LoL_Icon.png" alt="League of Legends Icon" class="icon">
 	</div>
 	<div class="content">
-		<ul>
+		<ul class="navi">
 		    <li><a href="Index.php">Home</a></li>
-            <li><a href="#">Trade</a></li>
+            <li><a href="TradeList.php">Trade</a></li>
             <li><a href="#">Request</a></li>
 		    <li><a href="Logout.php">Logout</a></li>
 		    <li><a href="Registration.php">Registration<a/></li>
