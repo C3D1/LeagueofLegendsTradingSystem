@@ -13,21 +13,13 @@
 	</div>
 	<div class="content">
 		<ul>
-		    <li><a href="#">Home</a></li>
+		    <li><a href="Index.php">Home</a></li>
 		    <li><a href="#">Trade</a></li>
 		    <li><a href="#">Request</a></li>
+		    <li><a href="Logout.php">Logout</a></li>
+		    <li><a href="Registration.php">Registration<a/></li>s
 		</ul>
-<<<<<<< HEAD
-
-=======
-		<?php 
-			if($_SESSION["login"] != 12345)
-			{
-				echo("<button><a href=\"Login.php\">Logout</a></button>");
-			}
-		
-		 ?>
->>>>>>> origin/master
+		Welcome to the League of Legends Trading System
 	</div>
 	<div class="footer">
 		<p>&copy; Cédric Schnider, Gino Pio Loco<p>

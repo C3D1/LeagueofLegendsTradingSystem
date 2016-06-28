@@ -11,9 +11,10 @@
 	</div>
 	<div class="content">
 		<ul>
-		    <li><a href="#">Home</a></li>
-		    <li><a href="#">Trade</a></li>
-		    <li><a href="#">Request</a></li>
+		    <li><a href="Index.php">Home</a></li>
+            <li><a href="#">Trade</a></li>
+            <li><a href="#">Request</a></li>
+            <li><a href="Registration.php">Registration<a/></li>
 		</ul>
 		<?php
 		require_once("../BusinessLayer/User.php"); 
